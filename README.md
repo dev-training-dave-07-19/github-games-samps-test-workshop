@@ -11,4 +11,4 @@ This fun open source game was cloned from: https://github.com/jakesgordon/javasc
 
 Hello Idexx :)
 
-Chnage 1
+change 1
